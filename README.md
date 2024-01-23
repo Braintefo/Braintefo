@@ -2,7 +2,6 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-- 🌱 I’m currently learning **mysql**
 
 - 📫 How to reach me **aadiatv@gmail.com**
 
