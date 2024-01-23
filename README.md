@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align="right" alt="coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/2a53651a35816f499270d8275fd5318f.gif">
+- 🌱 I’m currently learning mysql, Python, Tableau
 
 - 📫 How to reach me **aadiatv@gmail.com**
 
